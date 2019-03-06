@@ -1,0 +1,6 @@
+node_modules/
+
+/migrations/*
+!/migrations/example.js
+
+/config.json

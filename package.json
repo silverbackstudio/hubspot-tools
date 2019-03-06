@@ -1,0 +1,21 @@
+{
+  "name": "hubspot-scripts",
+  "version": "0.1.0",
+  "description": "A collection of script tools for HubSpot",
+  "author": "Brando Meniconi <b.meniconi@silverbackstudio.it>",
+  "main": "contacts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silverbackstudio/hubspot-tools.git"
+  },  
+  "dependencies": {
+    "commander": "^2.19.0",
+    "hubspot": "^2.1.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
