@@ -6,6 +6,8 @@ A collection of command line tools for HubSpot CRM.
 
 All the script run on NodeJS 10+. You can install node from [https://nodejs.org/it/download/]() or [https://nodejs.org/en/download/package-manager/]()
 
+Install all required dependencies via NPM:
+
 ```bash
 npm install
 ```
